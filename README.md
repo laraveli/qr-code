@@ -2,14 +2,14 @@
 
  Create QR Codes with Laravel
 
- This is a wrapper for [QR Code Generator for PHP](https://werneckbh.github.io/qr-code), a standalone library to generate QR Codes in PNG and SVG.
+ This is a wrapper for [QR Code Generator for PHP](https://github.com/laraveli/qr-code), a standalone library to generate QR Codes in PNG and SVG.
 
 ## Installation
 
  Install using **composer**:
 
  ```bash
- $ composer require werneckbh/laravel-qr-code
+ $ composer require laraveli/qr-code
  ```
 ##### Laravel 5.4 (5.5+ can skip this step)
  
