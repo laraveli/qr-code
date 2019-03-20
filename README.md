@@ -58,7 +58,7 @@
   ```
   The above route should print a PNG image for a text QR Code.
   
-  Make sure you check the [Documentation](https://werneckbh.github.io/laravel-qr-code/) for further instructions.
+  Make sure you check the [Documentation](https://github.com/laraveli/qr-code) for further instructions.
    
 ## [Contributing](CONTRIBUTING.md)
  
