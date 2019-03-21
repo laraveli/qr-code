@@ -9,9 +9,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "laraveli/qr-code": "^1.*"
-    },
     "autoload": {
         "psr-4": {
             "LaravelQRCode\\": "src/"
