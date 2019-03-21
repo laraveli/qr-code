@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "laraveli/qr-code": "^1.0"
+        "laraveli/qr-code": "^1"
     },
     "autoload": {
         "psr-4": {
